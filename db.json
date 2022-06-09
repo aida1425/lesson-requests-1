@@ -1,3 +1,32 @@
 {
-  "todos": []
+  "todos": [
+    {
+      "todo": "milk1",
+      "id": 1
+    },
+    {
+      "todo": "milk2",
+      "id": 2
+    },
+    {
+      "todo": "milk3",
+      "id": 3
+    },
+    {
+      "todo": "milk4",
+      "id": 4
+    },
+    {
+      "todo": "milk5",
+      "id": 5
+    },
+    {
+      "todo": "milk6",
+      "id": 6
+    },
+    {
+      "todo": "milk7",
+      "id": 7
+    }
+  ]
 }
